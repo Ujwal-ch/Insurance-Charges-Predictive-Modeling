@@ -2,7 +2,7 @@
 
 # a. Load the dataset
 library(readr)
-insurance <- read_csv("C:/Users/jsiddavatam1/Downloads/insurance.csv")
+insurance <- read_csv("C:/Users/uchepyala1/Downloads/insurance.csv")
 View(insurance)
 insurance
 
